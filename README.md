@@ -25,9 +25,10 @@ Here are some of the tools and technologies I work with:
 
 ### Languages
 - JavaScript (TypeScript)  
-- Python
 - Java
-- HTML5 & CSS3  
+- HTML5 & CSS3
+- C#
+- SQL
 
 ### Frameworks & Libraries
 - React, Next.js  
