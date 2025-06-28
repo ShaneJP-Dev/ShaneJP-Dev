@@ -1,4 +1,4 @@
-# Hey there! Shane ✨
+# Hey there! Shane 
 
 Welcome to my profile! I'm a passionate developer who loves building elegant, scalable, efficient solutions. Whether it's crafting stunning websites, developing intuitive software, or exploring emerging technologies, I'm always up for a challenge.
 
@@ -29,6 +29,7 @@ Here are some of the tools and technologies I work with:
 - HTML5 & CSS3
 - C#
 - SQL
+- PostgreSQL
 
 ### Frameworks & Libraries
 - React, Next.js  
