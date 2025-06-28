@@ -1,14 +1,14 @@
-# Hi there! Shane ✨
+# Hey there! Shane ✨
 
-Welcome to my profile! I'm a passionate developer with a love for building elegant, scalable, and efficient solutions. Whether it's crafting stunning websites, developing intuitive software, or exploring emerging technologies, I'm always up for a challenge.
+Welcome to my profile! I'm a passionate developer who loves building elegant, scalable, efficient solutions. Whether it's crafting stunning websites, developing intuitive software, or exploring emerging technologies, I'm always up for a challenge.
 
 ---
 
 ## About Me
 - **Name**: Shane 
-- **Expertise**: Full-Stack Development, UI/UX Design, Software Engineering, and Technical Consulting  
+- **Expertise**: Full-Stack Development, Software Engineering, Software Development
 - **Currently Exploring**: React Native, AI-driven applications, and improving user experiences  
-- **Passion**: Creating beautiful and functional solutions that make life easier for businesses and individuals.
+- **Passion**: Creating beautiful and functional solutions that simplify businesses and individuals' lives.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my profile! I'm a passionate developer with a love for building elega
 - **Web Development**: Building modern, responsive, and SEO-optimized websites.
 - **App Development**: Creating cross-platform mobile apps with React Native & Expo.
 - **Software Solutions**: Developing custom tools and applications tailored to unique needs.
-- **Business Consultancy**: Providing actionable insights for digital transformation.
+
 
 ---
 
@@ -40,9 +40,9 @@ Here are some of the tools and technologies I work with:
 - Git & GitHub  
 - MongoDB & Firebase
 - Supabase & Neon.DB
-- Wordpress @ Woocommerce
+- WordPress @ Woocommerce4
+- Wix Studio
 - Shopify  
-- Figma (for design)  
 
 ---
 
@@ -54,7 +54,7 @@ Here are some of the tools and technologies I work with:
 *A MP3 player that can play downloaded music from a text file*
 
 ### [AI Teacher Planner](https://github.com/ShaneJP-Dev/ai-teacher-planner)
-*An AI-driven app to simplify lesson planning for educators. Create with my team for our Hackathon project. Our end result was 3rd place*
+*An AI-driven app to simplify lesson planning for educators. Created with my team for our Hackathon project. Our end result was 3rd place*
 
 ---
 
