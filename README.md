@@ -32,7 +32,7 @@ Here are some of the tools and technologies I work with:
 - PostgreSQL
 
 ### Frameworks & Libraries
-- React, Next.js  
+- React, Next.js, tanstack 
 - Tailwind CSS  
 - ShadCN UI  
 - Node.js  
@@ -40,8 +40,8 @@ Here are some of the tools and technologies I work with:
 ### Tools & Platforms
 - Git & GitHub  
 - MongoDB & Firebase
-- Supabase & Neon.DB
-- WordPress @ Woocommerce4
+- Supabase & Convex
+- WordPress @ Woocommerce
 - Wix Studio
 - Shopify  
 
